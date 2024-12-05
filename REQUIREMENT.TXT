@@ -1,5 +1,0 @@
-tts
-numpy==1.23
-pydub
-flask
-gunicorn
